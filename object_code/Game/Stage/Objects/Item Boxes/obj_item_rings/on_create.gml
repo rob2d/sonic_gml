@@ -1,0 +1,1 @@
+itemType = item_ring
